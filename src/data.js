@@ -1,4 +1,5 @@
 export const vegetableData = [
+  
     {
       "Ingredient": "Carrot",
       "type": "vegetables",
